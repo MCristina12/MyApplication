@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aprobaste?</string>
+    <string name="estatus_alumno">Estatus del alumno</string>
+    <string name="c1">Matemáticas</string>
+    <string name="c2">Fisica</string>
+    <string name="c3">Química</string>
+    <string name="boton">Evaluar</string>
+</resources>
